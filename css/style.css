@@ -1,0 +1,10 @@
+/*Reset*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*Common*/
+body{
+    font-family: 'Rubik Mono One', sans-serif;
+}
